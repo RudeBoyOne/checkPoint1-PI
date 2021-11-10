@@ -1,1 +1,1 @@
-# checkPoint1-PI
+# CheckPoint 1 - Programação Imperativa
